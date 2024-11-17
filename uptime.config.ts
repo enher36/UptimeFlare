@@ -3,9 +3,9 @@ const pageConfig = {
   title: "lyc8503's Status Page",
   // Links shown at the header of your status page, could set `highlight` to `true`
   links: [
-    { link: 'https://github.com/lyc8503', label: 'GitHub' },
-    { link: 'https://blog.lyc8503.net/', label: 'Blog' },
-    { link: 'mailto:me@lyc8503.net', label: 'Email Me', highlight: true },
+    { link: 'http://www.enher.icu/', label: 'Alist',highlight: true },
+    { link: 'https://alist-proxy02.enher.icu/', label: 'Node01' },
+    { link: 'https://enher.jnpan.top/', label: 'Alist02', highlight: true },
   ],
 }
 
